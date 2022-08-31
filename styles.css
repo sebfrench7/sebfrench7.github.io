@@ -1,0 +1,22 @@
+#title {
+  font-size: 50px;
+  color: #000050;
+  font-family: sans-serif;
+}
+
+.center {
+   font-family: Papyrus;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  font
+}
+
+#image {
+  max-width: 65%;
+  height: auto;
+  display: block;
+}
+.font {
+  padding: 0px 200px 15px 200px;
+}
