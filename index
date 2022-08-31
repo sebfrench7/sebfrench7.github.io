@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>My awesome tribute page mofos</title>
+    <!-- The line below links your html document to your css stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tribute to Alexander the Great</title>
+</head>
+
+<body>
+  <main id="main">
+    <div id="heading" class="center">
+      <h1 id="title" class="center"><u>Alexander the Great</u></h1>
+      <p class="font"><i>The greatest military leader</i></p>
+    </div>
+    <div id="img-div">
+      <img class="center" id=image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexander_the_Great_mosaic.jpg/1024px-Alexander_the_Great_mosaic.jpg" alt=A mosaic of Alexander the Great>
+      <div class="center"><br>
+        <p id="img-caption" class="font">A mosaic of Alexander the Great in battle</p><br>
+      </div>
+    </div>
+    <h2 class="center">Alexander the Great, King of Macedon from 336 - 323 B.C., may claim the title of the greatest military leader the world has ever known. His empire spread from Gibraltar to the Punjab, and he made Greek the lingua franca of his world, the language that helped spread early Christianity.</h2>
+    <br>
+
+    <div id="facts" class="center">
+      <h2 class="font"><u>Facts about Alexander The Great</u></h2>
+      <ul class="font" style="text-align: justify;">
+        <br>
+        <li>Alexander was born around July 19/20, 356 B.C</li>
+        <br>
+        <li>Alexander founded more than 70 cities throughout the Mediterranean region and India, spreading the trade, the culture and the bloodline of the Greeks wherever he went.</li>
+        <br>
+        <li>Alexander was tutored by Leonidas and the great Greek philosopher Aristotle.</li>
+        <br>
+        <li>During his youth, Alexander tamed the wild horse Bucephalus. Later renaming a city in India in honor of his beloved horse Bucephalus.</li>
+        <br>
+        <li>In 340 B.C., while his father Philip went off to fight, Alexander was made regent in Macedonia. During Alexander's regency, the Maedi of northern Macedonia revolted. Alexander quashed revolt and renamed their city Alexandropolis.</li>
+        <br>
+        <li>In 336 B.C. his father Philip was assassinated, and Alexander the Great became ruler of Macedonia.</li>
+        <br>
+        <li>Alexander had potential rivals executed in order to secure the throne.</li>
+        <br>
+        <li>Alexander the Great had 3 wives and 2 children (both children died before adulthood).</li>
+        <br>
+        <li>In 323 B.C. Alexander the Great returned to Babylonia, where he became ill and died at age 33. The cause of his death is unknown but it could have been disease or poison.</li>
+        <br>
+      </ul>
+    </div>
+    <div id="Timeline" class="center">
+      <h2 class="font">Timeline:</h2>
+      <ul class="font" style="text-align: justify;">
+        <br>
+        <li><b>356 B.C.</b> - Born at Pella, Macedonia, to King Philip II and Olympias.</li>
+        <br>
+        <li><b>338 B.C.</b> - Battle of Chaeronea.</li>
+        <br>
+        <li><b>336 B.C.</b> - Alexander becomes ruler of Macedonia.</li>
+        <br>
+        <li><b>334 B.C.</b> - Wins Battle of the Granicus River against Darius III of Persia.</li>
+        <br>
+        <li><b>333 B.C. </b> - Wins Battle at Issus against Darius.</li>
+        <br>
+        <li><b>332 B.C.</b> - Wins siege of Tyre; attacks Gaza, which falls.</li>
+        <br>
+        <li><b>331 B.C. </b> - Founds Alexandria. Wins Battle of Gaugamela against Darius.</li>
+        <br>
+        <li><b>330 B.C.</b> - Sacks and burns Persepolis; trial and execution of Philotas; assassination of Parmenion</li>
+        <br>
+        <li><b>329 B.C.</b> - Crosses Hindu Kush; goes to Bactria and crosses the Oxus river and then to Samarkand.</li>
+        <br>
+        <li><b>328 B.C.</b> - Kills Black Cleitus for an insult at Samarkand.</li>
+        <br>
+        <li><b>327 B.C.</b> - Marries Roxane; begins march to India.</li>
+        <br>
+        <li><b>326 B.C. </b> - Wins Battle of river Hydaspes against Porus; Bucephalus dies.</li>
+        <br>
+        <li><b>324 B.C.</b> - Marries Stateira and Parysatis at Susa; Troops mutiny at Opis; Hephaestion dies.</li>
+        <br>
+        <li><b>323 B.C.</b> - Dies at Babylon in the palace of Nebuchadnezzar II.</li>
+        <br>
+      </ul>
+    </div>
+
+    <div class="center">
+      <p class="font"><i>I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion.</i>
+        —Alexander the Great</p>
+      <br>
+    </div>
+
+  </main>
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</body>
+  </body>
+</html>
